@@ -1,0 +1,11 @@
+department_name,first_name,last_name,salary,role
+Finance,Daniel,Martinez,90000.00,"Finance Manager"
+Finance,Jane,Smith,75000.00,"Financial Analyst"
+HR,James,Anderson,85000.00,"HR Manager"
+HR,Emily,Davis,50000.00,"HR Specialist"
+IT,Sophia,Johnson,65000.00,"Data Analyst"
+IT,John,Doe,60000.00,"Software Engineer"
+Marketing,Isabella,Thomas,78000.00,"Marketing Manager"
+Marketing,David,Wilson,54000.00,"Marketing Executive"
+Sales,Michael,Brown,82000.00,"Sales Manager"
+Sales,Olivia,Garcia,57000.00,"Sales Executive"

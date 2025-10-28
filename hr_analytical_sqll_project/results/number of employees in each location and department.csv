@@ -1,0 +1,11 @@
+department_name,location,employee_count
+Finance,Chicago,1
+Finance,"New York",1
+HR,"New York",1
+HR,"Los Angeles",1
+IT,"New York",1
+IT,"Los Angeles",1
+Marketing,Chicago,1
+Marketing,"New York",1
+Sales,"Los Angeles",1
+Sales,Chicago,1

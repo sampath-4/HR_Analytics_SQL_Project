@@ -1,0 +1,11 @@
+department_name,role,avg_salary
+Finance,"Finance Manager",90000.000000
+Finance,"Financial Analyst",75000.000000
+HR,"HR Manager",85000.000000
+HR,"HR Specialist",50000.000000
+IT,"Data Analyst",65000.000000
+IT,"Software Engineer",60000.000000
+Marketing,"Marketing Manager",78000.000000
+Marketing,"Marketing Executive",54000.000000
+Sales,"Sales Manager",82000.000000
+Sales,"Sales Executive",57000.000000
