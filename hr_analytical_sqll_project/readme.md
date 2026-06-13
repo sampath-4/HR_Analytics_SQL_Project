@@ -62,7 +62,7 @@ The project demonstrates SQL skills such as **joins, aggregations, window functi
 ---
 
 ## 🛠️ Technologies Used  
-- **SQL** (MySQL / PostgreSQL / SQLite)  
+- **SQL** (MySQL)  
 - **Database Design** (schemas, relationships, keys)  
 
 ---
@@ -71,5 +71,5 @@ The project demonstrates SQL skills such as **joins, aggregations, window functi
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/<your-username>/HR_Analytics_SQL_Project.git
+   git clone https://github.com/<sampath-4>/HR_Analytics_SQL_Project.git
    cd HR_Analytics_SQL_Project
